@@ -1,0 +1,30 @@
+{
+  "2025-06-17": {
+    "quiz": {
+      "question": "What is DHIS2 mainly used for?",
+      "options": ["Patient Scheduling", "Health Data Aggregation", "Lab Reporting"],
+      "answer": "Health Data Aggregation",
+      "explanation": "DHIS2 helps in tracking and analyzing public health data."
+    },
+    "fact": "DHIS2 is used in over 70 countries to manage health data systems.",
+    "glossary": {
+      "term": "Interoperability",
+      "meaning": "The ability of different health IT systems to exchange and use information seamlessly."
+    },
+    "tip": "Good data quality is essential for meaningful health analytics."
+  },
+  "2025-06-18": {
+    "quiz": {
+      "question": "What does HL7 stand for?",
+      "options": ["Health Level Seven", "Health Link Standard", "Hospital Logic 7"],
+      "answer": "Health Level Seven",
+      "explanation": "HL7 is a set of international standards for healthcare data exchange."
+    },
+    "fact": "HL7 is widely adopted in healthcare systems worldwide.",
+    "glossary": {
+      "term": "FHIR",
+      "meaning": "Fast Healthcare Interoperability Resources – a modern web standard for healthcare data exchange."
+    },
+    "tip": "Using standards like HL7 improves system interoperability."
+  }
+}

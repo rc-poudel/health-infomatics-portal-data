@@ -1,0 +1,32 @@
+[
+  {
+    "title": "HL7 v2/v3",
+    "description": "Messaging standards that define the structure and format of data exchange between healthcare systems. HL7 v2 uses a pipe-delimited format for clinical and administrative messages, while HL7 v3 uses XML for more structured and robust data exchange.",
+    "link": "https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185",
+    "tag": "Messaging",
+    "tagColor": "blue",
+    "image": "https://build.fhir.org/assets/images/fhir-logo-www.png",
+    "author": "Health Level Seven International",
+    "date": "2025-06-01"
+  },
+  {
+    "title": "CDA",
+    "description": "Clinical Document Architecture (CDA) is an HL7 document standard that structures clinical documents such as discharge summaries and progress notes using XML, enabling standardized clinical document exchange.",
+    "link": "https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7",
+    "tag": "Document",
+    "tagColor": "green",
+    "image": "https://hl7.org/fhir/assets-hist/images/cda_both_trans.jpg",
+    "author": "Health Level Seven International",
+    "date": "2025-05-22"
+  },
+  {
+    "title": "SNOMED-CT",
+    "description": "Systematized Nomenclature of Medicine – Clinical Terms (SNOMED-CT) is a comprehensive, multilingual clinical terminology that provides standardized vocabulary for clinical concepts, supporting consistent data representation and decision support.",
+    "link": "https://www.snomed.org/",
+    "tag": "Terminologies",
+    "tagColor": "yellow",
+    "image": "https://static.wixstatic.com/media/753286_5c627eb405c44523a456418cbc9dccfa~mv2.jpg/v1/fit/w_2500,h_1330,al_c/753286_5c627eb405c44523a456418cbc9dccfa~mv2.jpg",
+    "author": "SNOMED International",
+    "date": "2025-04-18"
+  }
+]

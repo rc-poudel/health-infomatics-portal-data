@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Health Informatics Workshop",
+    "date": "2025-07-20",
+    "location": "Kathmandu University",
+    "description": "A hands-on workshop on digital health and data analytics.",
+    "link": "/events/health-informatics-workshop"
+  },
+  {
+    "title": "Health Informatics Workshop",
+    "date": "2025-07-20",
+    "location": "Kathmandu University",
+    "description": "A hands-on workshop on digital health and data analytics.",
+    "link": "/events/health-informatics-workshop"
+  },
+  {
+    "title": "AI in Public Health",
+    "date": "2025-08-05",
+    "location": "Pokhara Research Center",
+    "description": "Discussion on AI applications in health systems.",
+    "link": "/events/ai-in-public-health"
+  }
+]

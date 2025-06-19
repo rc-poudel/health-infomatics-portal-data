@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Ministry of Health and Population (MoHP)",
+    "description": "Central body for health governance in Nepal. Provides policies, national plans, health acts, and bulletins.",
+    "link": "https://mohp.gov.np",
+    "tag": "Government",
+    "tagColor": "blue",
+    "image": "https://giwmscdntwo.gov.np/static/assets/image/Emblem_of_Nepal.png",
+    "author": "HealthGov Nepal",
+    "date": "2025-06-01"
+  },
+  {
+    "title": "DHIS2 Platform",
+    "description": "Open-source health management platform used by many governments, including Nepal, for digital health data collection and reporting.",
+    "link": "https://dhis2.org",
+    "tag": "Open Source Tool",
+    "tagColor": "green",
+    "image": "https://dhis2.org/wp-content/uploads/42-3.2-release-empty-blue-1-1280x710.png",
+    "author": "DHIS2 Team",
+    "date": "2025-05-22"
+  },
+  {
+    "title": "Health Management Information System (HMIS)",
+    "description": "Nepal’s centralized reporting and analytics platform for health institutions, hospitals, and municipalities.",
+    "link": "https://hmis.dohs.gov.np",
+    "tag": "Data Platform",
+    "tagColor": "yellow",
+    "image": "https://hmis.gov.np/assets/frontend/uploads/img/logo.png",
+    "author": "Department of Health Services",
+    "date": "2025-04-18"
+  },
+  {
+    "title": "QGIS for Health Mapping",
+    "description": "Free, open-source Geographic Information System widely used for health facility mapping, catchment analysis, and geospatial planning.",
+    "link": "https://qgis.org",
+    "tag": "GIS Tool",
+    "tagColor": "purple",
+    "image": "https://qgis.github.io/qgis-uni-navigation/logo.svg",
+    "author": "Open Source GIS Community",
+    "date": "2025-03-30"
+  },
+  {
+    "title": "WHO Digital Health Atlas",
+    "description": "Global directory of digital health initiatives to help governments and stakeholders coordinate and scale innovations.",
+    "link": "https://gdhub.unige.ch/implementome/projects/source/dha",
+    "tag": "Global Platform",
+    "tagColor": "indigo",
+    "image": "https://gdhub.unige.ch/implementome/assets/images/logo/logo-text3.png",
+    "author": "WHO",
+    "date": "2025-06-05"
+  },
+  {
+    "title": "Nepal Health Research Council (NHRC)",
+    "description": "Provides national health research data, ethics approval guidelines, and publications to support evidence-based decision making.",
+    "link": "https://nhrc.gov.np",
+    "tag": "Research Body",
+    "tagColor": "red",
+    "image": "https://nhrc.gov.np/wp-content/themes/nepal-health-research-council/images/logo.png",
+    "author": "NHRC Nepal",
+    "date": "2025-06-15"
+  },
+  {
+    "title": "DHIS2 Platform",
+    "description": "Open-source health management platform used by many governments, including Nepal, for digital health data collection and reporting.",
+    "link": "https://dhis2.org",
+    "tag": "Open Source Tool",
+    "tagColor": "green",
+    "image": "https://dhis2.org/wp-content/uploads/42-3.2-release-empty-blue-1-1280x710.png",
+    "author": "DHIS2 Team",
+    "date": "2025-05-22"
+  },
+  {
+    "title": "Health Management Information System (HMIS)",
+    "description": "Nepal’s centralized reporting and analytics platform for health institutions, hospitals, and municipalities.",
+    "link": "https://hmis.dohs.gov.np",
+    "tag": "Data Platform",
+    "tagColor": "yellow",
+    "image": "https://hmis.gov.np/assets/frontend/uploads/img/logo.png",
+    "author": "Department of Health Services",
+    "date": "2025-04-18"
+  },
+  {
+    "title": "QGIS for Health Mapping",
+    "description": "Free, open-source Geographic Information System widely used for health facility mapping, catchment analysis, and geospatial planning.",
+    "link": "https://qgis.org",
+    "tag": "GIS Tool",
+    "tagColor": "purple",
+    "image": "https://qgis.github.io/qgis-uni-navigation/logo.svg",
+    "author": "Open Source GIS Community",
+    "date": "2025-03-30"
+  },
+  {
+    "title": "WHO Digital Health Atlas",
+    "description": "Global directory of digital health initiatives to help governments and stakeholders coordinate and scale innovations.",
+    "link": "https://gdhub.unige.ch/implementome/projects/source/dha",
+    "tag": "Global Platform",
+    "tagColor": "indigo",
+    "image": "https://gdhub.unige.ch/implementome/assets/images/logo/logo-text3.png",
+    "author": "WHO",
+    "date": "2025-06-05"
+  },
+  {
+    "title": "Nepal Health Research Council (NHRC)",
+    "description": "Provides national health research data, ethics approval guidelines, and publications to support evidence-based decision making.",
+    "link": "https://nhrc.gov.np",
+    "tag": "Research Body",
+    "tagColor": "red",
+    "image": "https://nhrc.gov.np/wp-content/themes/nepal-health-research-council/images/logo.png",
+    "author": "NHRC Nepal",
+    "date": "2025-06-15"
+  }
+]
