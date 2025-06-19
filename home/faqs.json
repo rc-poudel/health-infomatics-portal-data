@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is HealthCare AI?",
+    "answer": "HealthCare AI stands for 'Artificial Intelligence' in healthcare. It uses smart computer programs to help doctors and nurses take better care of you. It can help with things like diagnosing illnesses, keeping track of your health, and even reminding you to take your medicine."
+  },
+  {
+    "question": "Will AI replace my doctor?",
+    "answer": "No. AI is just a tool to help doctors make better and faster decisions. Your doctor is always the one in charge of your care."
+  },
+  {
+    "question": "How does AI help with my treatment?",
+    "answer": "AI can look at your medical records, lab results, or scans and help find patterns or issues. This helps your doctor figure out the best treatment for you faster and more accurately."
+  },
+  {
+    "question": "Is my personal health information safe?",
+    "answer": "Yes. Your privacy is very important. All your information is protected with strong security, and the AI only uses your data to help improve your care."
+  },
+  {
+    "question": "Does AI know who I am?",
+    "answer": "No. The AI does not use your name or personal identity. It works with medical data without knowing who it belongs to, keeping you anonymous."
+  },
+  {
+    "question": "Who can I talk to if I have more questions?",
+    "answer": "You can always talk to your doctor, nurse, or clinic staff. They will explain how AI is used in your care and answer any questions you may have."
+  }
+]
