@@ -1,0 +1,41 @@
+{
+  "mainNews": {
+    "link": "https://ku.edu.np",
+    "category": "Education",
+    "title": "Kathmandu University Opens Health Informatics Affiliation",
+    "description": "KU invites private colleges across Nepal to apply for affiliation in Bachelor in Health Informatics and other programs by June 24, 2025.",
+    "image": "https://wimsapi.ku.edu.np/public_views/ku_new/upload/Ku/pic1_new.png"
+  },
+  "sideNews": [
+    {
+      "link": "https://www.myrepublica.nagariknetwork.com/news/my-mission-is-to-save-hearts-not-just-treat-them-69-82.html",
+      "title": "My Mission Is to Save Hearts, Not Just Treat Them",
+      "image": "https://republicaimg.nagariknewscdn.com/shared/web/uploads/media/MGQ2aplW8aBg6T4rOyOWZq5DdcOLehsWU7PYibso.jpg"
+    },
+    {
+      "link": "https://pu.edu.np/notice/admission-open-master-of-health-informatics-mhi/",
+      "title": "Admission Open: Master of Health Informatics (MHI)",
+      "image": "https://pu.edu.np/wp-content/uploads/2025/04/Admission-Notice-MHI-PU-2025-Final.jpg"
+    },
+    {
+      "link": "#",
+      "title": "Survey: Many Americans 'Dissatisfied' With U.S.",
+      "image": "https://api.time.com/wp-content/uploads/2020/07/American-Flag.jpg?quality=85&w=364&h=204&crop=1"
+    },
+    {
+      "link": "#",
+      "title": "How Trump's Mistakes Became Biden's Big Breaks",
+      "image": "https://api.time.com/wp-content/uploads/2020/06/GettyImages-1222922545.jpg?quality=85&w=364&h=204&crop=1"
+    },
+    {
+      "link": "#",
+      "title": "Survey: Many Americans 'Dissatisfied' With U.S.",
+      "image": "https://api.time.com/wp-content/uploads/2020/07/American-Flag.jpg?quality=85&w=364&h=204&crop=1"
+    },
+    {
+      "link": "#",
+      "title": "Trump Steps Back Into Coronavirus Spotlight",
+      "image": "https://api.time.com/wp-content/uploads/2020/07/president-trump-coronavirus-election.jpg?quality=85&w=364&h=204&crop=1"
+    }
+  ]
+}
