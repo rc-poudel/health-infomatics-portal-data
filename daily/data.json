@@ -26,5 +26,145 @@
       "meaning": "Fast Healthcare Interoperability Resources – a modern web standard for healthcare data exchange."
     },
     "tip": "Using standards like HL7 improves system interoperability."
+  },
+  "2025-06-19": {
+    "quiz": {
+      "question": "Which of the following is a key feature of FHIR?",
+      "options": ["Relational Databases", "RESTful APIs", "Desktop Interfaces"],
+      "answer": "RESTful APIs",
+      "explanation": "FHIR is built on RESTful web services to enable easier data exchange."
+    },
+    "fact": "FHIR allows systems to share small data packets rather than full documents.",
+    "glossary": {
+      "term": "Metadata",
+      "meaning": "Data that provides information about other data, such as its source, format, or usage."
+    },
+    "tip": "Always include metadata for better traceability in health datasets."
+  },
+  "2025-06-20": {
+    "quiz": {
+      "question": "What does SNOMED CT provide?",
+      "options": ["Financial Codes", "Clinical Terminology", "Drug Prices"],
+      "answer": "Clinical Terminology",
+      "explanation": "SNOMED CT standardizes clinical terms for improved communication."
+    },
+    "fact": "SNOMED CT has over 350,000 concepts covering diseases, symptoms, and procedures.",
+    "glossary": {
+      "term": "Ontology",
+      "meaning": "A structured framework to represent knowledge and relationships between concepts."
+    },
+    "tip": "Use standardized terminologies to reduce ambiguity in medical records."
+  },
+  "2025-06-21": {
+    "quiz": {
+      "question": "What is one primary benefit of using DHIS2?",
+      "options": ["Financial Planning", "EHR Development", "Aggregated Health Reporting"],
+      "answer": "Aggregated Health Reporting",
+      "explanation": "DHIS2 is optimized for managing and analyzing large-scale public health data."
+    },
+    "fact": "DHIS2 supports both aggregate and individual-level data reporting.",
+    "glossary": {
+      "term": "Aggregate Data",
+      "meaning": "Data collected and reported in summarized formats rather than individual entries."
+    },
+    "tip": "Use aggregate data for identifying trends at community or national levels."
+  },
+  "2025-06-22": {
+    "quiz": {
+      "question": "Which system supports the creation of custom health indicators?",
+      "options": ["FHIR", "OpenMRS", "DHIS2"],
+      "answer": "DHIS2",
+      "explanation": "DHIS2 allows users to define indicators for monitoring health goals."
+    },
+    "fact": "DHIS2 indicators are based on formulas using data elements and category options.",
+    "glossary": {
+      "term": "Indicator",
+      "meaning": "A measurable variable used to assess health performance or trends."
+    },
+    "tip": "Design indicators carefully to align with health program goals."
+  },
+  "2025-06-23": {
+    "quiz": {
+      "question": "What type of data does OpenMRS mainly handle?",
+      "options": ["Aggregate Data", "Individual Patient Records", "Financial Reports"],
+      "answer": "Individual Patient Records",
+      "explanation": "OpenMRS is an open-source EHR system for capturing patient-level data."
+    },
+    "fact": "OpenMRS is widely used in low-resource settings for clinical data management.",
+    "glossary": {
+      "term": "EHR",
+      "meaning": "Electronic Health Record – a digital version of a patient’s paper chart."
+    },
+    "tip": "EHR systems improve continuity and coordination of care."
+  },
+  "2025-06-24": {
+    "quiz": {
+      "question": "What is a common use case for GIS in health informatics?",
+      "options": ["Hospital Budgeting", "Disease Mapping", "Appointment Reminders"],
+      "answer": "Disease Mapping",
+      "explanation": "GIS helps visualize the geographic distribution of health data."
+    },
+    "fact": "GIS can help detect clusters of disease and allocate health resources effectively.",
+    "glossary": {
+      "term": "Geospatial Data",
+      "meaning": "Information that includes geographic location as part of the data."
+    },
+    "tip": "Integrate geospatial analysis to identify health service gaps."
+  },
+  "2025-06-25": {
+    "quiz": {
+      "question": "Which standard supports secure data exchange in telemedicine?",
+      "options": ["HL7", "ISO 9001", "HIPAA"],
+      "answer": "HIPAA",
+      "explanation": "HIPAA regulates the protection and sharing of patient health information in the US."
+    },
+    "fact": "Telemedicine platforms must comply with data privacy regulations like HIPAA or GDPR.",
+    "glossary": {
+      "term": "Data Privacy",
+      "meaning": "The right of individuals to control access to their personal health information."
+    },
+    "tip": "Encrypt all personal health information during storage and transmission."
+  },
+  "2025-06-26": {
+    "quiz": {
+      "question": "Which system uses a modular approach to EHR?",
+      "options": ["DHIS2", "OpenMRS", "Power BI"],
+      "answer": "OpenMRS",
+      "explanation": "OpenMRS can be extended with modules to meet specific clinical needs."
+    },
+    "fact": "OpenMRS supports multiple languages and form customization.",
+    "glossary": {
+      "term": "Module",
+      "meaning": "A software component that adds specific functionality to a system."
+    },
+    "tip": "Use modular systems to ensure adaptability and scalability."
+  },
+  "2025-06-27": {
+    "quiz": {
+      "question": "What is one role of a Health Information System?",
+      "options": ["Pharmaceutical Manufacturing", "Clinical Decision Support", "Weather Forecasting"],
+      "answer": "Clinical Decision Support",
+      "explanation": "HIS provides information that supports planning, monitoring, and decision-making."
+    },
+    "fact": "A good HIS integrates data from multiple sources for comprehensive insights.",
+    "glossary": {
+      "term": "Clinical Decision Support",
+      "meaning": "Tools or systems that assist healthcare providers in decision-making using data."
+    },
+    "tip": "Integrate CDS tools to reduce errors and improve patient outcomes."
+  },
+  "2025-06-28": {
+    "quiz": {
+      "question": "Which tool is best for visualizing health data?",
+      "options": ["Excel", "Power BI", "Notepad"],
+      "answer": "Power BI",
+      "explanation": "Power BI offers interactive dashboards and real-time analytics for health data."
+    },
+    "fact": "Power BI can connect to DHIS2 via APIs or custom data connectors.",
+    "glossary": {
+      "term": "Dashboard",
+      "meaning": "A visual interface that displays key metrics and trends in an accessible format."
+    },
+    "tip": "Use dashboards to communicate key health metrics clearly to stakeholders."
   }
 }
