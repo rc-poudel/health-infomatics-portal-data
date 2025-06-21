@@ -1,26 +1,26 @@
 [
   {
-    "question": "What is HealthCare AI?",
-    "answer": "HealthCare AI stands for 'Artificial Intelligence' in healthcare. It uses smart computer programs to help doctors and nurses take better care of you. It can help with things like diagnosing illnesses, keeping track of your health, and even reminding you to take your medicine."
+    "question": "What is the role of AI in this public health portal, EHR, and PHR services?",
+    "answer": "AI is integrated into our health systems to support better decision-making and faster care. It helps analyze your health records, detect potential risks, and recommend personalized care options within the EHR and PHR platforms."
   },
   {
-    "question": "Will AI replace my doctor?",
-    "answer": "No. AI is just a tool to help doctors make better and faster decisions. Your doctor is always the one in charge of your care."
+    "question": "Will AI replace my doctor or healthcare provider?",
+    "answer": "No. AI is used to assist healthcare professionals, not replace them. Your doctor or health provider remains fully responsible for your care, while AI helps them access important insights more efficiently."
   },
   {
-    "question": "How does AI help with my treatment?",
-    "answer": "AI can look at your medical records, lab results, or scans and help find patterns or issues. This helps your doctor figure out the best treatment for you faster and more accurately."
+    "question": "How does this platform use AI to improve my care?",
+    "answer": "When you use the public portal, EHR, or PHR services, AI can help by identifying patterns in your health data—like test results, vital signs, or medical history—so your care team can respond earlier and more accurately."
   },
   {
-    "question": "Is my personal health information safe?",
-    "answer": "Yes. Your privacy is very important. All your information is protected with strong security, and the AI only uses your data to help improve your care."
+    "question": "Is my health information safe and private?",
+    "answer": "Yes. Your health data is protected under strict security and privacy measures. All AI tools used within this system follow legal and ethical standards to ensure your personal information remains confidential and secure."
   },
   {
-    "question": "Does AI know who I am?",
-    "answer": "No. The AI does not use your name or personal identity. It works with medical data without knowing who it belongs to, keeping you anonymous."
+    "question": "Does the AI system know who I am?",
+    "answer": "No. The AI works with de-identified or encrypted data. It helps analyze your health information without directly accessing your name or identity, protecting your privacy at all times."
   },
   {
-    "question": "Who can I talk to if I have more questions?",
-    "answer": "You can always talk to your doctor, nurse, or clinic staff. They will explain how AI is used in your care and answer any questions you may have."
+    "question": "Who should I contact if I have questions about my data or care?",
+    "answer": "If you have any questions, please reach out through the help section of this portal, or speak to your healthcare provider. Our support staff are here to help you understand how your data is used and how these services support your health."
   }
 ]
