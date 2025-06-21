@@ -1,56 +1,56 @@
 [
   {
-    "name": "Ralph Edwards",
-    "company": "Big Kahuna Burger Ltd",
-    "image": "./assets/images/users/user.png",
-    "message": "As a Senior Software Developer I found TailAdmin perfect write code that easy can be used in my projects, which some are production already."
+    "name": "Sujan Shrestha",
+    "company": "-",
+    "image": "./assets/images/logo-white.png",
+    "message": "As an AI Engineer, I found TailAdmin incredibly helpful for rapidly building dashboards used in client demos and internal tools. The components are production-ready and easy to integrate."
   },
   {
-    "name": "Albert Flores",
-    "company": "Biffco Enterprises Ltd.",
-    "image": "./assets/images/users/user.png",
-    "message": "As a Senior Software Developer I found TailAdmin perfect write code that easy can be used in my projects, which some are production already."
+    "name": "Nirajan Koirala",
+    "company": "-",
+    "image": "./assets/images/logo-white.png",
+    "message": "We use TailAdmin for prototyping healthcare applications. Its clean UI and flexibility make it ideal for our development process and for pitching MVPs to global partners."
   },
   {
-    "name": "Jenny Wilson",
-    "company": "Acme Co.",
-    "image": "./assets/images/users/user.png",
-    "message": "As a Senior Software Developer I found TailAdmin perfect write code that easy can be used in my projects, which some are production already."
+    "name": "Rachana Poudel",
+    "company": "-",
+    "image": "./assets/images/logo-white.png",
+    "message": "TailAdmin speeds up our academic project development, especially in Health Informatics. Its simplicity and responsiveness save us time without compromising design."
   },
   {
-    "name": "Esther Howard",
-    "company": "Barone LLC.",
-    "image": "./assets/images/users/user.png",
-    "message": "As a Senior Software Developer I found TailAdmin perfect write code that easy can be used in my projects, which some are production already."
+    "name": "Ashim Bhattarai",
+    "company": "-",
+    "image": "./assets/images/logo-white.png",
+    "message": "We've been using TailAdmin in multiple government data visualization projects. It helped us quickly create modern, responsive dashboards with minimal effort."
   },
   {
-    "name": "Darlene Robertson",
-    "company": "Abstergo Ltd.",
-    "image": "./assets/images/users/user.png",
-    "message": "As a Senior Software Developer I found TailAdmin perfect write code that easy can be used in my projects, which some are production already."
+    "name": "Binita Maharjan",
+    "company": "-",
+    "image": "./assets/images/logo-white.png",
+    "message": "TailAdmin fits well with our mHealth project needs. It allows us to present community health data in an intuitive and accessible way to both clinicians and community health workers."
   },
   {
-    "name": "Devon Lane",
-    "company": "Binford Ltd.",
-    "image": "./assets/images/users/user.png",
-    "message": "As a Senior Software Developer I found TailAdmin perfect write code that easy can be used in my projects, which some are production already."
+    "name": "Roshan Khadka",
+    "company": "-",
+    "image": "./assets/images/logo-white.png",
+    "message": "We use TailAdmin for our civic tech applications. It's easy to customize and allows our small team to focus more on backend logic and data analysis."
   },
   {
-    "name": "Ralph Edwards",
-    "company": "Big Kahuna Burger Ltd",
-    "image": "./assets/images/users/user.png",
-    "message": "As a Senior Software Developer I found TailAdmin perfect write code that easy can be used in my projects, which some are production already."
+    "name": "Puja Sharma",
+    "company": "-",
+    "image": "./assets/images/logo-white.png",
+    "message": "TailAdmin helped us build clean interfaces for research data management tools. It's reliable, responsive, and looks professional for both local and international users."
   },
   {
-    "name": "Darlene Robertson",
-    "company": "Abstergo Ltd.",
-    "image": "./assets/images/users/user.png",
-    "message": "As a Senior Software Developer I found TailAdmin perfect write code that easy can be used in my projects, which some are production already."
+    "name": "Prabin Bhandari",
+    "company": "-",
+    "image": "./assets/images/logo-white.png",
+    "message": "From prototyping to production, TailAdmin has been a go-to for us in developing health tech apps focused on rural health data collection and visualization."
   },
   {
-    "name": "Devon Lane",
-    "company": "Binford Ltd.",
-    "image": "./assets/images/users/user.png",
-    "message": "As a Senior Software Developer I found TailAdmin perfect write code that easy can be used in my projects, which some are production already."
+    "name": "Sita Rana",
+    "company": "-",
+    "image": "./assets/images/logo-white.png",
+    "message": "We found TailAdmin to be a solid foundation for building internal tools and health reporting dashboards. It saves design time and promotes consistent UI/UX across our pilots."
   }
 ]
