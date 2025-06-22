@@ -1,5 +1,9 @@
 [
   {
+    "question":"What is Health Infomatics?",
+    "answer": "Health Informatics is the interdisciplinary field that combines healthcare, information technology, and data analysis to improve the quality, efficiency, and delivery of healthcare services. It involves the collection, management, and use of health information to support clinical decision-making and healthcare delivery."
+  },
+  {
     "question": "What is the role of AI in this public health portal, EHR, and PHR services?",
     "answer": "AI is integrated into our health systems to support better decision-making and faster care. It helps analyze your health records, detect potential risks, and recommend personalized care options within the EHR and PHR platforms."
   },

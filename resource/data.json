@@ -1,5 +1,15 @@
 [
   {
+    "title": "Draft Digital Nepal Framework 2.0",
+    "description": "A strategic roadmap by the Government of Nepal to harness digital technologies for socioeconomic transformation across eight key sectors: Digital Foundation, Agriculture, Health, Education, Energy, Tourism, Finance, and Urban Infrastructure.",
+    "link": "https://giwmscdntwo.gov.np/media/pdf_upload/dnf_jbji8eb.pdf",
+    "tag": "Government",
+    "tagColor": "blue",
+    "image": "https://giwmscdntwo.gov.np/static/assets/image/Emblem_of_Nepal.png",
+    "author": "Government of Nepal, Ministry of Communication and Information Technology",
+    "date": "2025"
+  },
+  {
     "title": "Ministry of Health and Population (MoHP)",
     "description": "Central body for health governance in Nepal. Provides policies, national plans, health acts, and bulletins.",
     "link": "https://mohp.gov.np",
@@ -60,53 +70,13 @@
     "date": "2025-06-15"
   },
   {
-    "title": "DHIS2 Platform",
-    "description": "Open-source health management platform used by many governments, including Nepal, for digital health data collection and reporting.",
-    "link": "https://dhis2.org",
-    "tag": "Open Source Tool",
+    "title": "World Bank: Nepal Health Sector Governance and Accountability",
+    "description": "A comprehensive review of governance, financing, and service delivery in Nepal’s health sector, highlighting challenges and recommendations for strengthening accountability and effectiveness.",
+    "link": "https://documents1.worldbank.org/curated/en/099431112112339951/pdf/IDU099b7af14050e0881109b16c839125e.pdf",
+    "tag": "Report",
     "tagColor": "green",
-    "image": "https://dhis2.org/wp-content/uploads/42-3.2-release-empty-blue-1-1280x710.png",
-    "author": "DHIS2 Team",
-    "date": "2025-05-22"
-  },
-  {
-    "title": "Health Management Information System (HMIS)",
-    "description": "Nepal’s centralized reporting and analytics platform for health institutions, hospitals, and municipalities.",
-    "link": "https://hmis.dohs.gov.np",
-    "tag": "Data Platform",
-    "tagColor": "yellow",
-    "image": "https://hmis.gov.np/assets/frontend/uploads/img/logo.png",
-    "author": "Department of Health Services",
-    "date": "2025-04-18"
-  },
-  {
-    "title": "QGIS for Health Mapping",
-    "description": "Free, open-source Geographic Information System widely used for health facility mapping, catchment analysis, and geospatial planning.",
-    "link": "https://qgis.org",
-    "tag": "GIS Tool",
-    "tagColor": "purple",
-    "image": "https://qgis.github.io/qgis-uni-navigation/logo.svg",
-    "author": "Open Source GIS Community",
-    "date": "2025-03-30"
-  },
-  {
-    "title": "WHO Digital Health Atlas",
-    "description": "Global directory of digital health initiatives to help governments and stakeholders coordinate and scale innovations.",
-    "link": "https://gdhub.unige.ch/implementome/projects/source/dha",
-    "tag": "Global Platform",
-    "tagColor": "indigo",
-    "image": "https://gdhub.unige.ch/implementome/assets/images/logo/logo-text3.png",
-    "author": "WHO",
-    "date": "2025-06-05"
-  },
-  {
-    "title": "Nepal Health Research Council (NHRC)",
-    "description": "Provides national health research data, ethics approval guidelines, and publications to support evidence-based decision making.",
-    "link": "https://nhrc.gov.np",
-    "tag": "Research Body",
-    "tagColor": "red",
-    "image": "https://nhrc.gov.np/wp-content/themes/nepal-health-research-council/images/logo.png",
-    "author": "NHRC Nepal",
-    "date": "2025-06-15"
+    "image": "https://www.worldbank.org/ext/en/media_1b9d836624bdfd028dfbe9f018f3f12e52326504c.svg",
+    "author": "The World Bank",
+    "date": "2022-12-11"
   }
 ]
