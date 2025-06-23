@@ -1,0 +1,300 @@
+{
+  "interventions": [
+    {
+      "id": 1,
+      "title": "Community Health Worker Mobile Reporting System",
+      "description": "A mobile-based reporting system used by community health workers (CHWs) to record and submit health data in rural areas.",
+      "implementing_organization": "HealthReach Nepal",
+      "start_date": "2023-01-01",
+      "end_date": "2025-12-31",
+      "status": "Scaling",
+      "geographic_coverage": ["Bagmati Province", "Province 2"],
+      "health_system_challenges": [
+        "Limited data availability",
+        "Inefficient paper-based reporting"
+      ],
+      "digital_health_solution_type": [
+        "Mobile application",
+        "Data collection and reporting"
+      ],
+      "target_users": ["Community Health Workers", "Health Facility Staff"],
+      "technologies_used": ["Android", "Open Data Kit (ODK)", "FHIR"],
+      "interoperability": {
+        "integrates_with": ["DHIS2", "National eHealth Registry"],
+        "interoperability_standards": ["FHIR", "HL7"]
+      },
+      "monitoring_evaluation": {
+        "indicators": [
+          "Number of CHWs reporting monthly",
+          "Percentage of complete reports submitted"
+        ],
+        "data_sources": ["App backend database", "National HMIS"],
+        "evaluation_plan": "Quarterly M&E review with district health offices"
+      },
+      "partners": [
+        {
+          "name": "Ministry of Health and Population, Nepal",
+          "role": "Policy support and integration"
+        },
+        {
+          "name": "WHO Nepal",
+          "role": "Technical assistance and funding"
+        }
+      ],
+      "attachments": [
+        {
+          "title": "Implementation Strategy Document",
+          "url": "https://example.org/strategy-doc.pdf"
+        }
+      ],
+      "contact": {
+        "name": "Dr. Sita Basnet",
+        "email": "sita.basnet@healthreach.org.np",
+        "phone": "+977-1-1234567"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Telemedicine Platform for Rural Clinics",
+      "description": "A telemedicine solution connecting rural clinics with specialists in urban centers to improve access to expert healthcare.",
+      "implementing_organization": "Rural Health Initiative",
+      "start_date": "2022-06-01",
+      "end_date": "2026-05-31",
+      "status": "Pilot",
+      "geographic_coverage": ["Gandaki Province"],
+      "health_system_challenges": [
+        "Limited access to specialists",
+        "Travel time and costs"
+      ],
+      "digital_health_solution_type": ["Telemedicine", "Video consultation"],
+      "target_users": ["Rural Clinic Staff", "Specialists"],
+      "technologies_used": ["WebRTC", "Cloud Video API"],
+      "interoperability": {
+        "integrates_with": ["National Health Database"],
+        "interoperability_standards": ["HL7"]
+      },
+      "monitoring_evaluation": {
+        "indicators": ["Number of consultations", "Patient satisfaction scores"],
+        "data_sources": ["Platform logs", "Patient surveys"],
+        "evaluation_plan": "Annual impact assessment"
+      },
+      "partners": [
+        {
+          "name": "Ministry of Health and Population, Nepal",
+          "role": "Regulatory approval"
+        }
+      ],
+      "attachments": [],
+      "contact": {
+        "name": "Mr. Raj Sharma",
+        "email": "raj.sharma@ruralhealth.org.np",
+        "phone": "+977-1-7654321"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Telemedicine Platform for Rural Clinics",
+      "description": "A telemedicine solution connecting rural clinics with specialists in urban centers to improve access to expert healthcare.",
+      "implementing_organization": "Rural Health Initiative",
+      "start_date": "2022-06-01",
+      "end_date": "2026-05-31",
+      "status": "Pilot",
+      "geographic_coverage": ["Gandaki Province"],
+      "health_system_challenges": [
+        "Limited access to specialists",
+        "Travel time and costs"
+      ],
+      "digital_health_solution_type": ["Telemedicine", "Video consultation"],
+      "target_users": ["Rural Clinic Staff", "Specialists"],
+      "technologies_used": ["WebRTC", "Cloud Video API"],
+      "interoperability": {
+        "integrates_with": ["National Health Database"],
+        "interoperability_standards": ["HL7"]
+      },
+      "monitoring_evaluation": {
+        "indicators": ["Number of consultations", "Patient satisfaction scores"],
+        "data_sources": ["Platform logs", "Patient surveys"],
+        "evaluation_plan": "Annual impact assessment"
+      },
+      "partners": [
+        {
+          "name": "Ministry of Health and Population, Nepal",
+          "role": "Regulatory approval"
+        }
+      ],
+      "attachments": [],
+      "contact": {
+        "name": "Mr. Raj Sharma",
+        "email": "raj.sharma@ruralhealth.org.np",
+        "phone": "+977-1-7654321"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Community Health Worker Mobile Reporting System",
+      "description": "A mobile-based reporting system used by community health workers (CHWs) to record and submit health data in rural areas.",
+      "implementing_organization": "HealthReach Nepal",
+      "start_date": "2023-01-01",
+      "end_date": "2025-12-31",
+      "status": "Scaling",
+      "geographic_coverage": ["Bagmati Province", "Province 2"],
+      "health_system_challenges": [
+        "Limited data availability",
+        "Inefficient paper-based reporting"
+      ],
+      "digital_health_solution_type": [
+        "Mobile application",
+        "Data collection and reporting"
+      ],
+      "target_users": ["Community Health Workers", "Health Facility Staff"],
+      "technologies_used": ["Android", "Open Data Kit (ODK)", "FHIR"],
+      "interoperability": {
+        "integrates_with": ["DHIS2", "National eHealth Registry"],
+        "interoperability_standards": ["FHIR", "HL7"]
+      },
+      "monitoring_evaluation": {
+        "indicators": [
+          "Number of CHWs reporting monthly",
+          "Percentage of complete reports submitted"
+        ],
+        "data_sources": ["App backend database", "National HMIS"],
+        "evaluation_plan": "Quarterly M&E review with district health offices"
+      },
+      "partners": [
+        {
+          "name": "Ministry of Health and Population, Nepal",
+          "role": "Policy support and integration"
+        },
+        {
+          "name": "WHO Nepal",
+          "role": "Technical assistance and funding"
+        }
+      ],
+      "attachments": [
+        {
+          "title": "Implementation Strategy Document",
+          "url": "https://example.org/strategy-doc.pdf"
+        }
+      ],
+      "contact": {
+        "name": "Dr. Sita Basnet",
+        "email": "sita.basnet@healthreach.org.np",
+        "phone": "+977-1-1234567"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Telemedicine Platform for Rural Clinics",
+      "description": "A telemedicine solution connecting rural clinics with specialists in urban centers to improve access to expert healthcare.",
+      "implementing_organization": "Rural Health Initiative",
+      "start_date": "2022-06-01",
+      "end_date": "2026-05-31",
+      "status": "Pilot",
+      "geographic_coverage": ["Gandaki Province"],
+      "health_system_challenges": [
+        "Limited access to specialists",
+        "Travel time and costs"
+      ],
+      "digital_health_solution_type": ["Telemedicine", "Video consultation"],
+      "target_users": ["Rural Clinic Staff", "Specialists"],
+      "technologies_used": ["WebRTC", "Cloud Video API"],
+      "interoperability": {
+        "integrates_with": ["National Health Database"],
+        "interoperability_standards": ["HL7"]
+      },
+      "monitoring_evaluation": {
+        "indicators": ["Number of consultations", "Patient satisfaction scores"],
+        "data_sources": ["Platform logs", "Patient surveys"],
+        "evaluation_plan": "Annual impact assessment"
+      },
+      "partners": [
+        {
+          "name": "Ministry of Health and Population, Nepal",
+          "role": "Regulatory approval"
+        }
+      ],
+      "attachments": [],
+      "contact": {
+        "name": "Mr. Raj Sharma",
+        "email": "raj.sharma@ruralhealth.org.np",
+        "phone": "+977-1-7654321"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Telemedicine Platform for Rural Clinics",
+      "description": "A telemedicine solution connecting rural clinics with specialists in urban centers to improve access to expert healthcare.",
+      "implementing_organization": "Rural Health Initiative",
+      "start_date": "2022-06-01",
+      "end_date": "2026-05-31",
+      "status": "Pilot",
+      "geographic_coverage": ["Gandaki Province"],
+      "health_system_challenges": [
+        "Limited access to specialists",
+        "Travel time and costs"
+      ],
+      "digital_health_solution_type": ["Telemedicine", "Video consultation"],
+      "target_users": ["Rural Clinic Staff", "Specialists"],
+      "technologies_used": ["WebRTC", "Cloud Video API"],
+      "interoperability": {
+        "integrates_with": ["National Health Database"],
+        "interoperability_standards": ["HL7"]
+      },
+      "monitoring_evaluation": {
+        "indicators": ["Number of consultations", "Patient satisfaction scores"],
+        "data_sources": ["Platform logs", "Patient surveys"],
+        "evaluation_plan": "Annual impact assessment"
+      },
+      "partners": [
+        {
+          "name": "Ministry of Health and Population, Nepal",
+          "role": "Regulatory approval"
+        }
+      ],
+      "attachments": [],
+      "contact": {
+        "name": "Mr. Raj Sharma",
+        "email": "raj.sharma@ruralhealth.org.np",
+        "phone": "+977-1-7654321"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Telemedicine Platform for Rural Clinics",
+      "description": "A telemedicine solution connecting rural clinics with specialists in urban centers to improve access to expert healthcare.",
+      "implementing_organization": "Rural Health Initiative",
+      "start_date": "2022-06-01",
+      "end_date": "2026-05-31",
+      "status": "Pilot",
+      "geographic_coverage": ["Gandaki Province"],
+      "health_system_challenges": [
+        "Limited access to specialists",
+        "Travel time and costs"
+      ],
+      "digital_health_solution_type": ["Telemedicine", "Video consultation"],
+      "target_users": ["Rural Clinic Staff", "Specialists"],
+      "technologies_used": ["WebRTC", "Cloud Video API"],
+      "interoperability": {
+        "integrates_with": ["National Health Database"],
+        "interoperability_standards": ["HL7"]
+      },
+      "monitoring_evaluation": {
+        "indicators": ["Number of consultations", "Patient satisfaction scores"],
+        "data_sources": ["Platform logs", "Patient surveys"],
+        "evaluation_plan": "Annual impact assessment"
+      },
+      "partners": [
+        {
+          "name": "Ministry of Health and Population, Nepal",
+          "role": "Regulatory approval"
+        }
+      ],
+      "attachments": [],
+      "contact": {
+        "name": "Mr. Raj Sharma",
+        "email": "raj.sharma@ruralhealth.org.np",
+        "phone": "+977-1-7654321"
+      }
+    }
+  ]
+}
