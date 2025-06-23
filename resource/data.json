@@ -16,7 +16,7 @@
     "tag": "Government",
     "tagColor": "blue",
     "image": "https://giwmscdntwo.gov.np/static/assets/image/Emblem_of_Nepal.png",
-    "author": "HealthGov Nepal",
+    "author": "MoHP",
     "date": "2025-06-01"
   },
   {
@@ -32,11 +32,11 @@
   {
     "title": "Health Management Information System (HMIS)",
     "description": "Nepal’s centralized reporting and analytics platform for health institutions, hospitals, and municipalities.",
-    "link": "https://hmis.dohs.gov.np",
+    "link": "https://hmis.gov.np",
     "tag": "Data Platform",
     "tagColor": "yellow",
-    "image": "https://hmis.gov.np/assets/frontend/uploads/img/logo.png",
-    "author": "Department of Health Services",
+    "image": "https://giwmscdntwo.gov.np/static/assets/image/Emblem_of_Nepal.png",
+    "author": "Integrated Health Information Management Section",
     "date": "2025-04-18"
   },
   {
@@ -68,6 +68,26 @@
     "image": "https://nhrc.gov.np/wp-content/themes/nepal-health-research-council/images/logo.png",
     "author": "NHRC Nepal",
     "date": "2025-06-15"
+  },
+  {
+    "title": "SECTORAL PROFILE HEALTH",
+    "description": "An in-depth overview of Nepal's health sector, highlighting key investment opportunities, infrastructure needs, and strategic priorities",
+    "link": "https://ibn.gov.np/uploads/documents/health-sector-full-versionpdf-1746-552-1730779800.pdf",
+    "tag": "Report",
+    "tagColor": "green",
+    "image": "https://giwmscdntwo.gov.np/static/assets/image/Emblem_of_Nepal.png",
+    "author": "GOVERNMENT OF NEPAL INVESTMENT BOARD NEPAL",
+    "date": "April 2024"
+  },
+  {
+    "title": "National Health Financing Strategy 2023- 2033",
+    "description": "The Government of Nepal has recently endorsed a new ten-year strategy for health financing with the aim of ensuring equitable financial management to achieve universal health coverage (UHC) in Nepal",
+    "link": "https://p4h.world/app/uploads/2023/11/a%C2%A4%C2%B0a%C2%A4%C2%BEa%C2%A4%C2%B7a%C2%A5_a%C2%A4_a%C2%A5_a%C2%A4%C2%B0a%C2%A4%C2%BFa%C2%A4%C2%AF-a%C2%A4%C2%B8a%C2%A5_a%C2%A4%C2%B5a%C2%A4%C2%BEa%C2%A4%C2%B8a%C2%A5_a%C2%A4%C2%A5a%C2%A5_a%C2%A4%C2%AF-a%C2%A4%C2%B5a%C2%A4%C2%BFa%C2%A4%C2%A4a%C2%A5_a%C2%A4%C2%A4-a%C2%A4%C2%B0a%C2%A4a%C2%A4%C2%A8a%C2%A5_a%C2%A4%C2%A4a%C2%A4%C2%BF.x80726.pdf",
+    "tag": "Report",
+    "tagColor": "green",
+    "image": "https://giwmscdntwo.gov.np/static/assets/image/Emblem_of_Nepal.png",
+    "author": "MoHP",
+    "date": "Nov 2023"
   },
   {
     "title": "World Bank: Nepal Health Sector Governance and Accountability",
