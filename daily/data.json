@@ -1,8 +1,138 @@
 {
+  "2025-06-29": {
+    "quiz": {
+      "question": "What does the 'MRS' in OpenMRS stand for?",
+      "options": [
+        "Medical Record System",
+        "Modular Resource Software",
+        "Management Record Suite"
+      ],
+      "answer": "Medical Record System",
+      "explanation": "OpenMRS stands for Open Medical Record System, focusing on patient data in resource-constrained environments."
+    },
+    "fact": "OpenMRS was originally designed for use in Africa to support HIV/AIDS care programs.",
+    "glossary": {
+      "term": "Open Source",
+      "meaning": "Software with source code freely available for anyone to use, modify, and distribute."
+    },
+    "tip": "Contributing to open-source projects like OpenMRS helps improve global digital health systems."
+  },
+  "2025-06-30": {
+    "quiz": {
+      "question": "What kind of data does DHIS2 primarily collect?",
+      "options": [
+        "Stock Market Data",
+        "Health Indicators",
+        "Weather Patterns"
+      ],
+      "answer": "Health Indicators",
+      "explanation": "DHIS2 gathers health indicators such as immunization rates, disease cases, and maternal health data."
+    },
+    "fact": "DHIS2 allows custom dashboards to visualize progress on health programs.",
+    "glossary": {
+      "term": "Health Indicator",
+      "meaning": "A measurable variable that reflects the health status of a population."
+    },
+    "tip": "Choose indicators that align with national health strategies and global frameworks like SDGs."
+  },
+  "2025-07-01": {
+    "quiz": {
+      "question": "Which protocol does FHIR primarily use for communication?",
+      "options": [
+        "FTP",
+        "REST",
+        "SOAP"
+      ],
+      "answer": "REST",
+      "explanation": "FHIR leverages RESTful APIs, enabling lightweight and scalable data exchange."
+    },
+    "fact": "FHIR can be implemented in mobile health apps due to its web-based architecture.",
+    "glossary": {
+      "term": "API",
+      "meaning": "Application Programming Interface – a set of rules that allows software systems to communicate."
+    },
+    "tip": "Use version-controlled APIs to maintain compatibility across evolving systems."
+  },
+  "2025-07-02": {
+    "quiz": {
+      "question": "What does GDPR primarily protect?",
+      "options": [
+        "Hospital Budgets",
+        "Health Insurance Claims",
+        "Personal Data Privacy"
+      ],
+      "answer": "Personal Data Privacy",
+      "explanation": "GDPR ensures protection of personal data, including health records, in the EU."
+    },
+    "fact": "GDPR fines can reach up to €20 million or 4% of global annual revenue.",
+    "glossary": {
+      "term": "Consent",
+      "meaning": "Permission given by individuals to use or share their personal data."
+    },
+    "tip": "Always collect and document consent when using patient data for secondary purposes."
+  },
+  "2025-07-03": {
+    "quiz": {
+      "question": "What is one benefit of integrating GIS with health data?",
+      "options": [
+        "Increase Server Speed",
+        "Map Disease Outbreaks",
+        "Manage Insurance Policies"
+      ],
+      "answer": "Map Disease Outbreaks",
+      "explanation": "GIS helps track disease patterns and inform public health interventions."
+    },
+    "fact": "GIS tools like QGIS and ArcGIS are widely used in health informatics projects.",
+    "glossary": {
+      "term": "Epidemiology",
+      "meaning": "The study of how diseases spread and can be controlled."
+    },
+    "tip": "Use GIS layers such as population density and facility locations to plan outreach."
+  },
+  "2025-07-04": {
+    "quiz": {
+      "question": "What is a major feature of HL7 FHIR compared to earlier HL7 versions?",
+      "options": [
+        "Uses Binary Files",
+        "Has Built-in Graphics",
+        "Based on Web Standards"
+      ],
+      "answer": "Based on Web Standards",
+      "explanation": "FHIR uses XML/JSON and RESTful APIs to integrate with modern web technologies."
+    },
+    "fact": "FHIR simplifies app development through standard \"resources\" like Patient, Observation, and Encounter.",
+    "glossary": {
+      "term": "FHIR Resource",
+      "meaning": "A modular unit of data exchange in FHIR (e.g., Patient, Practitioner, Condition)."
+    },
+    "tip": "Start with core FHIR resources and extend only when necessary for local context."
+  },
+  "2025-07-05": {
+    "quiz": {
+      "question": "What does an Electronic Medical Record (EMR) typically include?",
+      "options": [
+        "Weather Alerts",
+        "Clinical Notes",
+        "Financial Statements"
+      ],
+      "answer": "Clinical Notes",
+      "explanation": "EMRs contain patient history, diagnostics, treatments, and clinical notes within a facility."
+    },
+    "fact": "Unlike EHRs, EMRs are generally limited to a single provider or hospital.",
+    "glossary": {
+      "term": "Interoperable EMR",
+      "meaning": "An EMR capable of exchanging data with external systems."
+    },
+    "tip": "Encourage interoperability to ensure continuity of care when patients visit multiple facilities."
+  },
   "2025-06-17": {
     "quiz": {
       "question": "What is DHIS2 mainly used for?",
-      "options": ["Patient Scheduling", "Health Data Aggregation", "Lab Reporting"],
+      "options": [
+        "Patient Scheduling",
+        "Health Data Aggregation",
+        "Lab Reporting"
+      ],
       "answer": "Health Data Aggregation",
       "explanation": "DHIS2 helps in tracking and analyzing public health data."
     },
@@ -16,7 +146,11 @@
   "2025-06-18": {
     "quiz": {
       "question": "What does HL7 stand for?",
-      "options": ["Health Level Seven", "Health Link Standard", "Hospital Logic 7"],
+      "options": [
+        "Health Level Seven",
+        "Health Link Standard",
+        "Hospital Logic 7"
+      ],
       "answer": "Health Level Seven",
       "explanation": "HL7 is a set of international standards for healthcare data exchange."
     },
@@ -30,7 +164,11 @@
   "2025-06-19": {
     "quiz": {
       "question": "Which of the following is a key feature of FHIR?",
-      "options": ["Relational Databases", "RESTful APIs", "Desktop Interfaces"],
+      "options": [
+        "Relational Databases",
+        "RESTful APIs",
+        "Desktop Interfaces"
+      ],
       "answer": "RESTful APIs",
       "explanation": "FHIR is built on RESTful web services to enable easier data exchange."
     },
@@ -44,7 +182,11 @@
   "2025-06-20": {
     "quiz": {
       "question": "What does SNOMED CT provide?",
-      "options": ["Financial Codes", "Clinical Terminology", "Drug Prices"],
+      "options": [
+        "Financial Codes",
+        "Clinical Terminology",
+        "Drug Prices"
+      ],
       "answer": "Clinical Terminology",
       "explanation": "SNOMED CT standardizes clinical terms for improved communication."
     },
@@ -58,7 +200,11 @@
   "2025-06-21": {
     "quiz": {
       "question": "What is one primary benefit of using DHIS2?",
-      "options": ["Financial Planning", "EHR Development", "Aggregated Health Reporting"],
+      "options": [
+        "Financial Planning",
+        "EHR Development",
+        "Aggregated Health Reporting"
+      ],
       "answer": "Aggregated Health Reporting",
       "explanation": "DHIS2 is optimized for managing and analyzing large-scale public health data."
     },
@@ -72,7 +218,11 @@
   "2025-06-22": {
     "quiz": {
       "question": "Which system supports the creation of custom health indicators?",
-      "options": ["FHIR", "OpenMRS", "DHIS2"],
+      "options": [
+        "FHIR",
+        "OpenMRS",
+        "DHIS2"
+      ],
       "answer": "DHIS2",
       "explanation": "DHIS2 allows users to define indicators for monitoring health goals."
     },
@@ -86,7 +236,11 @@
   "2025-06-23": {
     "quiz": {
       "question": "What type of data does OpenMRS mainly handle?",
-      "options": ["Aggregate Data", "Individual Patient Records", "Financial Reports"],
+      "options": [
+        "Aggregate Data",
+        "Individual Patient Records",
+        "Financial Reports"
+      ],
       "answer": "Individual Patient Records",
       "explanation": "OpenMRS is an open-source EHR system for capturing patient-level data."
     },
@@ -100,7 +254,11 @@
   "2025-06-24": {
     "quiz": {
       "question": "What is a common use case for GIS in health informatics?",
-      "options": ["Hospital Budgeting", "Disease Mapping", "Appointment Reminders"],
+      "options": [
+        "Hospital Budgeting",
+        "Disease Mapping",
+        "Appointment Reminders"
+      ],
       "answer": "Disease Mapping",
       "explanation": "GIS helps visualize the geographic distribution of health data."
     },
@@ -114,7 +272,11 @@
   "2025-06-25": {
     "quiz": {
       "question": "Which standard supports secure data exchange in telemedicine?",
-      "options": ["HL7", "ISO 9001", "HIPAA"],
+      "options": [
+        "HL7",
+        "ISO 9001",
+        "HIPAA"
+      ],
       "answer": "HIPAA",
       "explanation": "HIPAA regulates the protection and sharing of patient health information in the US."
     },
@@ -128,7 +290,11 @@
   "2025-06-26": {
     "quiz": {
       "question": "Which system uses a modular approach to EHR?",
-      "options": ["DHIS2", "OpenMRS", "Power BI"],
+      "options": [
+        "DHIS2",
+        "OpenMRS",
+        "Power BI"
+      ],
       "answer": "OpenMRS",
       "explanation": "OpenMRS can be extended with modules to meet specific clinical needs."
     },
@@ -142,7 +308,11 @@
   "2025-06-27": {
     "quiz": {
       "question": "What is one role of a Health Information System?",
-      "options": ["Pharmaceutical Manufacturing", "Clinical Decision Support", "Weather Forecasting"],
+      "options": [
+        "Pharmaceutical Manufacturing",
+        "Clinical Decision Support",
+        "Weather Forecasting"
+      ],
       "answer": "Clinical Decision Support",
       "explanation": "HIS provides information that supports planning, monitoring, and decision-making."
     },
@@ -156,7 +326,11 @@
   "2025-06-28": {
     "quiz": {
       "question": "Which tool is best for visualizing health data?",
-      "options": ["Excel", "Power BI", "Notepad"],
+      "options": [
+        "Excel",
+        "Power BI",
+        "Notepad"
+      ],
       "answer": "Power BI",
       "explanation": "Power BI offers interactive dashboards and real-time analytics for health data."
     },

@@ -8,12 +8,20 @@
     "link": "https://kathmandupost.com/health/2025/06/22/experts-raise-alarm-over-low-budget-for-non-communicable-diseases"
   },
   {
-    "image": "https://cdn.who.int/media/images/default-source/south-east-asia-(searo)/countries/nepal/az8_9808.jpg?sfvrsn=ef340a6_4",
+    "image": "https://cdn.who.int/media/images/default-source/south-east-asia-(searo)/countries/nepal/az8_9808.jpg",
     "author": "WHO",
     "date": "18 June 2025",
     "title": "Nepal vaccinates over 1.46 million girls with the HPV vaccine",
     "description": "Nepal has vaccinated over 1.46 million girls, through a nationwide HPV campaign, supported by Gavi, the Vaccine Alliance, WHO and UNICEF, achieving 94% administrative coverage.",
     "link": "https://www.who.int/nepal/news/detail/18-06-2025-nepal-vaccinates-over-1.46-million-girls-with-the-hpv-vaccine"
+  },
+  {
+    "image": "https://giwmscdntwo.gov.np/media/carousels/h1_k23ugjg.jpg",
+    "author": "बागमती प्रदेश सरकार",
+    "date": "1 June 2025",
+    "title": "स्वास्थ्य मन्त्री किरण थापा मगरबाट बागमती प्रदेशमा स्वास्थ्य संस्था दर्ता तथा नवीकरण प्रणाली(HRRS) को डिजिटल शुभारम्भ।",
+    "description": "स्वास्थ्य निर्देशनालय, हेटौंडाद्वारा आयोजित आ.व.८१/८२ को अर्धवार्षिक समीक्षा तथा आगामी आ.व.८२/८३ को योजना तर्जुमा गोष्ठीको अवसरमा स्वास्थ्य मन्त्री मा. किरण थापा मगरबाट बागमती प्रदेशमा स्वास्थ्य संस्था दर्ता तथा नवीकरण प्रणाली(HRRS) को डिजिटल शुभारम्भ।",
+    "link": "https://moh.bagamati.gov.np/carousel-detail/1/"
   },
   {
     "image": "https://wimsapi.ku.edu.np/public_views/ku_new/upload/Ku/pic1_new.png",
@@ -22,13 +30,5 @@
     "title": "Kathmandu University Opens Health Informatics Affiliation",
     "description": "KU invites private colleges across Nepal to apply for affiliation in Bachelor in Health Informatics and other programs by June 24, 2025.",
     "link": "https://ku.edu.np"
-  },
-  {
-    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2023/03/AI-Health_blog-2023Mar_TW_LI_FB_with_logo_1200x627.jpg",
-    "author": "RC",
-    "date": "2025-06-10",
-    "title": "AI in Nepali Healthcare: A Real Breakthrough",
-    "description": "A real case study of reducing unplanned hospital admissions with early alerts.",
-    "link": "ai-nepal"
   }
 ]
